@@ -4,9 +4,9 @@ using UnityEngine;
 
 public abstract class Module : MonoBehaviour
 {
-public float contCALV;
-public float contTEMP;
-public float contCNTA;
-public float contNIVA;
+public int contCALV;
+public int contTEMP;
+public int contCNTA;
+public int contNIVA;
 public string nombre;
 }
