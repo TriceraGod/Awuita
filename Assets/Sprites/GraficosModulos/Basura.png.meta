@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 704f919104bc7464c9f6bf6450dc4fa0
+guid: a4132fccaf3c8d044a12b5814b3874cc
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ajolotito Base Final_0
+      name: Basura_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
-        width: 512
-        height: 512
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c58034f7355341d48855f588d6174ff5
-      internalID: 2059530578
+      spriteID: 87b57a9090cd0fc44abd1105b4df5506
+      internalID: 736264046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_1
+      name: Basura_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1536
-        width: 512
-        height: 512
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14704e003f89e3f42a8641560946a314
-      internalID: 1855555364
+      spriteID: 9dea2afd089f5ea4090fd343622ba84e
+      internalID: 130231739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_2
+      name: Basura_2
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1536
-        width: 512
-        height: 512
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,83 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2d8e422b6805f340be645c6e71142db
-      internalID: -2045108673
+      spriteID: 1fabb3b44ddea6846907a112a478a629
+      internalID: 1329605805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c42770615921da4bb58025016b16e73
-      internalID: -1068707761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ajolotito Base Final_4
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1b42c9b4a1263141ac182ab488e6da7
-      internalID: -1868227497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ajolotito Base Final_5
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1024
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bec8a2b7f35f5d445bc4f0c05a1899b3
-      internalID: -620346044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ajolotito Base Final_6
+      name: Basura_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
-        width: 512
-        height: 512
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f23e081b9a6a3b4db583e01b566f960
-      internalID: 547885266
+      spriteID: baae6953f25362f40b7c3f9d3fe41b6a
+      internalID: -2025827581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_7
+      name: Basura_4
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a3f7765edc06b84bb4bb539566419e6
-      internalID: 1373800320
+      spriteID: ec315d50fa669b947a451f0461fc1a53
+      internalID: 1258723244
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_8
+      name: Basura_5
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 512
-        height: 512
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd1d772290b30f4e876547b472ab544
-      internalID: -156467367
+      spriteID: 51d6744873ca946429245608b8ee4ae2
+      internalID: 1633577031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_9
+      name: Basura_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd32cf84bc556de4dbed740206d9fa65
-      internalID: -1218077717
+      spriteID: fcff2e8c5163c7e4bb1c2e4d40123dca
+      internalID: -1772815899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ajolotito Base Final_10
+      name: Basura_7
       rect:
         serializedVersion: 2
-        x: 512
+        x: 32
         y: 0
-        width: 512
-        height: 512
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,29 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3db662d843d0401408fb6621022a0acd
-      internalID: -24909221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ajolotito Base Final_11
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 512
-        height: 512
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d669ab6b5635fd4ca7b071523fdf469
-      internalID: -104311883
+      spriteID: 38b6eceb614bce84e9497f33e1c4e00a
+      internalID: 409659033
       vertices: []
       indices: 
       edges: []
@@ -372,18 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ajolotito Base Final_0: 2059530578
-      Ajolotito Base Final_1: 1855555364
-      Ajolotito Base Final_10: -24909221
-      Ajolotito Base Final_11: -104311883
-      Ajolotito Base Final_2: -2045108673
-      Ajolotito Base Final_3: -1068707761
-      Ajolotito Base Final_4: -1868227497
-      Ajolotito Base Final_5: -620346044
-      Ajolotito Base Final_6: 547885266
-      Ajolotito Base Final_7: 1373800320
-      Ajolotito Base Final_8: -156467367
-      Ajolotito Base Final_9: -1218077717
+      Basura_0: 736264046
+      Basura_1: 130231739
+      Basura_2: 1329605805
+      Basura_3: -2025827581
+      Basura_4: 1258723244
+      Basura_5: 1633577031
+      Basura_6: -1772815899
+      Basura_7: 409659033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
