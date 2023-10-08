@@ -9,9 +9,4 @@ public float maxCounter;
 public float startingCounter;
 public string nombre;
 
-void Progreso(){
-
-
-}
-
 }
